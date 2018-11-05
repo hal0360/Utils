@@ -1,1 +1,1 @@
-include ':app', ':collectionview', ':rootactivity'
+include ':app', ':collectionview', ':rootactivity', ':tools'

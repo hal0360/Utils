@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/collectionview" />
             <option value="$PROJECT_DIR$/rootactivity" />
+            <option value="$PROJECT_DIR$/tools" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
